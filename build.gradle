@@ -6,7 +6,7 @@ plugins {
 
 node {
 	download = true
-	version = "18.1.0"
+	version = "16.5.0"
 	npmVersion = "8.9.0"
 	workDir = file("${projectDir}/.gradle/nodejs")
 }
